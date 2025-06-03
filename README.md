@@ -13,6 +13,6 @@ This project follows a structured learning path:
 - **Data** 
    - `train.csv` (7,613 tweets, 5 columns: `id`, `text`, `location`, `keyword`, `target`)  
    - `test.csv` (3,263 tweets)  
-- **Learning Approach**  
+- **Learning Schedule**  
   - Day 1: EDA & Feature Exploration
   - Day 2: Comparing three different data cleaning pipelines; TF-IDF + Logistic Regression model; baseline LB 0.79711
