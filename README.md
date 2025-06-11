@@ -16,4 +16,5 @@ This project follows a structured learning path:
 - **Learning Schedule**  
   - Day 1: EDA & Feature Exploration
   - Day 2: Comparing three different data cleaning pipelines; TF-IDF + Logistic Regression model; baseline LB 0.79711
-  - Day 3: Hyperparameter tuning and error analysis
+  - Day 3: Hyperparameter tuning and error analysis; LB score of 0.79037
+  - Day 4: Implemented 5-fold stratified CV; blended predictions for new LB score of 0.80110
